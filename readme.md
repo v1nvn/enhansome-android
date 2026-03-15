@@ -10,7 +10,7 @@
 
 # About
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 47,301 | 🐛 16 | 📅 2026-02-07.
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 47,309 | 🐛 15 | 📅 2026-02-07.
 
 ## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade\&utm_medium=spon\&utm_content=header)
 
@@ -98,8 +98,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Charts
 
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,226 | 🐛 2,190 | 🌐 Java | 📅 2025-06-05 - An Android chart and graph library supporting scaling and dragging by gesture.
-* [HelloCharts](https://github.com/lecho/hellocharts-android) ⭐ 7,797 | 🐛 293 | 🌐 Java | 📅 2021-06-01 - Chart and graph library with support for scaling, scrolling and animations.
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,228 | 🐛 2,189 | 🌐 Java | 📅 2025-06-05 - An Android chart and graph library supporting scaling and dragging by gesture.
+* [HelloCharts](https://github.com/lecho/hellocharts-android) ⭐ 7,798 | 🐛 293 | 🌐 Java | 📅 2021-06-01 - Chart and graph library with support for scaling, scrolling and animations.
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart) ⭐ 5,113 | 🐛 35 | 🌐 Kotlin | 📅 2025-10-04 - Chart library with good motion capabilities.
 * [AnyChart](https://github.com/AnyChart/AnyChart-Android) ⭐ 2,375 | 🐛 115 | 🌐 Java | 📅 2026-03-13 - Data visualization library, Interactive charts.
 * [EazeGraph](https://github.com/blackfizz/EazeGraph) ⭐ 1,598 | 🐛 52 | 🌐 Java | 📅 2016-11-11 - Chart and graph library.
@@ -117,7 +117,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Dependency Injection
 
-* [Dagger 2](https://github.com/google/dagger) ⭐ 17,708 | 🐛 371 | 🌐 Java | 📅 2026-03-13 - A fast dependency injector for Android and Java.
+* [Dagger 2](https://github.com/google/dagger) ⭐ 17,710 | 🐛 371 | 🌐 Java | 📅 2026-03-13 - A fast dependency injector for Android and Java.
 * [AndroidAnnotations](https://github.com/androidannotations/androidannotations) ⚠️ Archived - Java annotations with dependency injection at compile time.
 * [Toothpick](https://github.com/stephanenicolas/toothpick) ⭐ 1,139 | 🐛 50 | 🌐 Java | 📅 2022-06-24 - A scope tree based Dependency Injection (DI) library for Java.
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) ⭐ 433 | 🐛 5 | 🌐 Kotlin | 📅 2019-01-11 - Android Library that provide simpler way to start the Activities with multiple arguments.
@@ -130,7 +130,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Game Development
 
-* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 24,890 | 🐛 329 | 🌐 Java | 📅 2026-02-27
+* [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX) ⭐ 24,898 | 🐛 329 | 🌐 Java | 📅 2026-02-27
 * [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,415 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine
 * [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) ⭐ 773 | 🐛 6 | 🌐 Java | 📅 2020-10-01 - An easy open source Android Native Game FrameWork.
 * [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
@@ -139,12 +139,12 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Security
 
-* [Themis](https://github.com/cossacklabs/themis) ⭐ 1,955 | 🐛 32 | 🌐 C | 📅 2026-01-09 - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+* [Themis](https://github.com/cossacklabs/themis) ⭐ 1,954 | 🐛 32 | 🌐 C | 📅 2026-01-09 - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 * [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) ⚠️ Archived - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 
 ### GUI
 
-* [Litho (By Facebook)](https://github.com/facebook/litho) ⭐ 7,779 | 🐛 110 | 🌐 Kotlin | 📅 2026-03-09 - A declarative framework for building efficient UIs on Android.
+* [Litho (By Facebook)](https://github.com/facebook/litho) ⭐ 7,780 | 🐛 110 | 🌐 Kotlin | 📅 2026-03-09 - A declarative framework for building efficient UIs on Android.
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView) ⭐ 5,463 | 🐛 56 | 🌐 Java | 📅 2024-10-08 - An implementation of tap targets from the Material Design guidelines for feature discovery.
 * [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) ⚠️ Archived - Grid view which supports multiple columns with rows of varying sizes.
 * [Cardslib](https://github.com/gabrielemariotti/cardslib) ⭐ 4,634 | 🐛 183 | 🌐 Java | 📅 2021-11-18 - Android Library to build a UI Card.
@@ -207,7 +207,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### Animations
 
-* [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) ⭐ 12,473 | 🐛 66 | 🌐 Java | 📅 2021-08-18 - Cute view animation collection.
+* [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) ⭐ 12,474 | 🐛 66 | 🌐 Java | 📅 2021-08-18 - Cute view animation collection.
 * [Rebound](https://github.com/facebook/rebound) ⚠️ Archived - Rebound is a Java library that models spring dynamics.
 * [Spotlight](https://github.com/TakuSemba/Spotlight) ⭐ 3,663 | 🐛 31 | 🌐 Kotlin | 📅 2022-12-03 - Android Library that lights items for tutorials or walk-throughs etc...
 * [Android-Transition](https://github.com/kaichunlin/android-transition) ⭐ 613 | 🐛 3 | 🌐 Java | 📅 2018-05-04 - Allows the easy creation of view transitions that react to user inputs.
@@ -219,7 +219,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 * [Compressor](https://github.com/zetbaitsu/Compressor) ⭐ 7,226 | 🐛 140 | 🌐 Kotlin | 📅 2026-03-05 - Compressor is a lightweight and powerful android image compression library.
 * [android-crop](https://github.com/jdamcd/android-crop) ⚠️ Archived - Library project for cropping images.
-* [ShapeImageView](https://github.com/siyamed/android-shape-imageview) ⭐ 2,669 | 🐛 63 | 🌐 Java | 📅 2019-07-27 - Library to display images in different shapes.
+* [ShapeImageView](https://github.com/siyamed/android-shape-imageview) ⭐ 2,670 | 🐛 63 | 🌐 Java | 📅 2019-07-27 - Library to display images in different shapes.
 * [Crescento](https://github.com/developer-shivam/crescento) ⭐ 1,266 | 🐛 9 | 🌐 Java | 📅 2018-10-01 - Explore new style in material design by adding curve below image view.
 * [CircularImageView](https://github.com/Pkmmte/CircularImageView) ⭐ 1,174 | 🐛 47 | 🌐 Java | 📅 2017-08-16 - Custom view for circular images while maintaining the best draw performance.
 * [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) ⭐ 657 | 🐛 13 | 🌐 C++ | 📅 2016-05-29 - Library project for applying image filters easily.
@@ -240,11 +240,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### Loading Images
 
-* [Glide](https://github.com/bumptech/glide) ⭐ 35,037 | 🐛 632 | 🌐 Java | 📅 2026-03-11 - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
+* [Glide](https://github.com/bumptech/glide) ⭐ 35,036 | 🐛 633 | 🌐 Java | 📅 2026-03-11 - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 * [Picasso](https://github.com/square/picasso) ⭐ 19,066 | 🐛 213 | 🌐 Kotlin | 📅 2024-11-06 - A powerful image downloading and caching library for Android.
 * [Fresco](https://github.com/facebook/fresco) ⭐ 17,164 | 🐛 260 | 🌐 Java | 📅 2026-03-13 - An Android library for managing images and the memory they use.
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 17,064 | 🐛 460 | 🌐 Java | 📅 2024-08-15 - Asynchronous, out of the box loading and caching of images.
-* [Coil](https://github.com/coil-kt/coil) ⭐ 11,736 | 🐛 60 | 🌐 Kotlin | 📅 2026-03-12 - Image loading for Android backed by Kotlin Coroutines.
+* [Coil](https://github.com/coil-kt/coil) ⭐ 11,737 | 🐛 60 | 🌐 Kotlin | 📅 2026-03-12 - Image loading for Android backed by Kotlin Coroutines.
 * [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) ⭐ 599 | 🐛 6 | 🌐 Java | 📅 2024-08-18 - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 
 #### Media Picker
@@ -255,7 +255,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 #### Video
 
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,121 | 🐛 2,895 | 🌐 C | 📅 2024-08-13 - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-* [Exoplayer](https://github.com/google/ExoPlayer) ⭐ 21,934 | 🐛 632 | 🌐 Java | 📅 2025-12-23 - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
+* [Exoplayer](https://github.com/google/ExoPlayer) ⭐ 21,933 | 🐛 632 | 🌐 Java | 📅 2025-12-23 - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
   Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 * [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) ⭐ 94 | 🐛 3 | 🌐 Kotlin | 📅 2017-10-16 - Custom Android view with video player, play/stop, loader and placeholder image.
 
@@ -272,7 +272,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 * [Gson](https://github.com/google/gson) ⭐ 24,342 | 🐛 333 | 🌐 Java | 📅 2026-03-10 - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 * [Moshi](https://github.com/square/moshi) ⭐ 10,121 | 🐛 98 | 🌐 Kotlin | 📅 2026-03-12 - A modern JSON library for Android and Java.
-* [Jackson JSON Processor](https://github.com/FasterXML/jackson) ⭐ 9,681 | 🐛 0 | 📅 2026-03-11 - High-performance JSON processor.
+* [Jackson JSON Processor](https://github.com/FasterXML/jackson) ⭐ 9,683 | 🐛 0 | 📅 2026-03-11 - High-performance JSON processor.
 
 ### Crash monitoring
 
@@ -286,7 +286,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Networking
 
-* [OkHttp](https://github.com/square/okhttp) ⭐ 46,925 | 🐛 93 | 🌐 Kotlin | 📅 2026-03-13 - An HTTP+SPDY client for Android and Java applications.
+* [OkHttp](https://github.com/square/okhttp) ⭐ 46,926 | 🐛 94 | 🌐 Kotlin | 📅 2026-03-13 - An HTTP+SPDY client for Android and Java applications.
 * [Ion](https://github.com/koush/ion) ⭐ 6,266 | 🐛 337 | 🌐 Java | 📅 2024-02-01 - Good networking library for android.
 * [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) ⭐ 5,886 | 🐛 232 | 🌐 Java | 📅 2026-02-05 - A Complete Fast Android Networking Library that also support HTTP/2.
 * [RoboSpice](https://github.com/stephanenicolas/robospice) ⚠️ Archived - Library that makes writing asynchronous network requests easy.
@@ -314,7 +314,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Database
 
-* [Realm](https://github.com/realm/realm-java) ⭐ 11,492 | 🐛 396 | 🌐 Java | 📅 2025-09-15 - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
+* [Realm](https://github.com/realm/realm-java) ⭐ 11,493 | 🐛 396 | 🌐 Java | 📅 2025-09-15 - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
 * [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) ⭐ 2,231 | 🐛 78 | 🌐 Java | 📅 2021-09-23 - manage database creation and version management using an application's raw asset files.
 * [DbInspector](https://github.com/infinum/android_dbinspector) ⭐ 957 | 🐛 1 | 🌐 Kotlin | 📅 2026-02-18 - Provides a simple way to view the contents of the in-app database for debugging purposes.
 * [Nitrite Database](https://github.com/dizitart/nitrite-database) ⭐ 896 | 🐛 3 | 🌐 Java | 📅 2026-03-09 - A NoSQL embedded document store for Android with MongoDb like API.
@@ -362,7 +362,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Utility
 
-* [LeakCanary](https://github.com/square/leakcanary) ⭐ 29,908 | 🐛 154 | 🌐 Kotlin | 📅 2026-03-06 - Catch memory leaks as they occur.
+* [LeakCanary](https://github.com/square/leakcanary) ⭐ 29,909 | 🐛 154 | 🌐 Kotlin | 📅 2026-03-06 - Catch memory leaks as they occur.
 * [Otto](https://github.com/square/otto) ⚠️ Archived - Event Bus for Android.
 * [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) ⭐ 1,784 | 🐛 10 | 🌐 Java | 📅 2024-07-12 - Get device information in a super easy way.
 * [Weak handler](https://github.com/badoo/android-weak-handler) ⭐ 1,542 | 🐛 5 | 🌐 Java | 📅 2022-02-24 - Memory safer implementation of android.os.Handler.
@@ -382,11 +382,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Debugging Tools
 
 * [Stetho](https://github.com/facebook/stetho) ⭐ 12,707 | 🐛 85 | 🌐 Java | 📅 2024-10-26 - Debug hierarchy and network from chrome.
-* [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) ⭐ 12,240 | 🐛 50 | 📅 2024-12-18 - a command-line tool to assist in debugging Android-powered devices
+* [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) ⭐ 12,241 | 🐛 50 | 📅 2024-12-18 - a command-line tool to assist in debugging Android-powered devices
 * [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) ⭐ 8,639 | 🐛 82 | 🌐 Java | 📅 2026-02-05 - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 * [Pidcat](https://github.com/JakeWharton/pidcat) ⭐ 4,941 | 🐛 67 | 🌐 Python | 📅 2024-05-10 - a colored command-line ADB wrapper that only shows log entries for a specific application package
 * [Scalpel](https://github.com/JakeWharton/scalpel) ⚠️ Archived - View the entire hierarchy in 3d in the phone.
-* [ADB Enhanced](https://github.com/ashishb/adb-enhanced) ⭐ 1,363 | 🐛 1 | 🌐 Python | 📅 2026-03-12 - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
+* [ADB Enhanced](https://github.com/ashishb/adb-enhanced) ⭐ 1,365 | 🐛 0 | 🌐 Python | 📅 2026-03-14 - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 * [Linx](https://github.com/pedrovgs/Lynx) ⭐ 787 | 🐛 9 | 🌐 Java | 📅 2026-01-16 - Show logcat inside the device for debug builds
 * [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
@@ -438,9 +438,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
-* [Guava: Google Core Libraries for Java](https://github.com/google/guava) ⭐ 51,502 | 🐛 721 | 🌐 Java | 📅 2026-03-13 - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
-* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,484 | 🐛 21 | 🌐 Java | 📅 2026-03-11- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-* [ZXing Android-Integration](https://github.com/zxing/zxing) ⭐ 33,884 | 🐛 4 | 🌐 Java | 📅 2026-03-10 - Integration with Barcode Scanner via Intent.
+* [Guava: Google Core Libraries for Java](https://github.com/google/guava) ⭐ 51,505 | 🐛 721 | 🌐 Java | 📅 2026-03-13 - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,487 | 🐛 21 | 🌐 Java | 📅 2026-03-11- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+* [ZXing Android-Integration](https://github.com/zxing/zxing) ⭐ 33,885 | 🐛 5 | 🌐 Java | 📅 2026-03-10 - Integration with Barcode Scanner via Intent.
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 20,182 | 🐛 1 | 🌐 Java | 📅 2025-11-21 - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 * [Flexbox Layout](https://github.com/google/flexbox-layout) ⭐ 18,354 | 🐛 133 | 🌐 Kotlin | 📅 2024-04-22 - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 * [RxBinding](https://github.com/JakeWharton/RxBinding) ⚠️ Archived- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
@@ -448,11 +448,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 * [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) ⭐ 5,284 | 🐛 76 | 🌐 Java | 📅 2023-07-24 - Java 8 Lambdas on Android!
 * [AboutLibraries](https://github.com/mikepenz/AboutLibraries) ⭐ 4,239 | 🐛 9 | 🌐 Kotlin | 📅 2026-03-09 - Automatically generates an About this app section, with a list of used libraries.
 * [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) ⭐ 3,382 | 🐛 140 | 🌐 Java | 📅 2022-10-22 - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
-* [Sensey](https://github.com/nisrulz/sensey) ⭐ 2,663 | 🐛 27 | 🌐 Java | 📅 2024-07-07 - Detecting gestures in a snap.
+* [Sensey](https://github.com/nisrulz/sensey) ⭐ 2,662 | 🐛 27 | 🌐 Java | 📅 2024-07-07 - Detecting gestures in a snap.
 * [Android Scripting](https://github.com/damonkohler/sl4a) ⚠️ Archived - Allows to run scripting languages on Android.
 * [Tape](https://github.com/square/tape) ⚠️ Archived - A lightning fast, transactional, file-based FIFO for Android and Java.
 * [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) ⭐ 1,701 | 🐛 130 | 🌐 Kotlin | 📅 2025-08-16 - A kotlin dsl to simplify dependencies management
-* [Licensee](https://github.com/cashapp/licensee) ⭐ 741 | 🐛 30 | 🌐 Kotlin | 📅 2026-03-13 - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
+* [Licensee](https://github.com/cashapp/licensee) ⭐ 741 | 🐛 30 | 🌐 Kotlin | 📅 2026-03-14 - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 * [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) ⚠️ Archived - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 * [Caffeine](https://github.com/percolate/caffeine) ⭐ 415 | 🐛 2 | 🌐 Java | 📅 2017-03-14 - A collection of utility classes that help make Android development faster.
 * [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) ⭐ 112 | 🐛 6 | 🌐 Java | 📅 2018-08-13 - Lib provides a simple way to display an alert dialog for rating app.
@@ -493,7 +493,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Code examples
 
-* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,606 | 🐛 217 | 🌐 Kotlin | 📅 2026-03-11 - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
+* [Android Architecture Blueprints](https://github.com/android/architecture-samples) ⭐ 45,610 | 🐛 217 | 🌐 Kotlin | 📅 2026-03-11 - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 * [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) ⭐ 2,444 | 🐛 4 | 🌐 Kotlin | 📅 2021-08-23 - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
 * [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) ⭐ 545 | 🐛 3 | 🌐 Kotlin | 📅 2023-06-11 - Example about MVVM (Model View ViewModel) Pattern.
 * [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) ⭐ 129 | 🐛 1 | 🌐 Java | 📅 2021-01-28 - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
@@ -526,8 +526,8 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### HTML, CSS and Javascript
 
-* [React Native](https://github.com/facebook/react-native) ⭐ 125,573 | 🐛 1,258 | 🌐 C++ | 📅 2026-03-13 - A framework for building native apps with React by Facebook.
-* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 15,233 | 🐛 116 | 🌐 TypeScript | 📅 2026-03-13 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
+* [React Native](https://github.com/facebook/react-native) ⭐ 125,577 | 🐛 1,263 | 🌐 C++ | 📅 2026-03-14 - A framework for building native apps with React by Facebook.
+* [Capacitor](https://github.com/ionic-team/capacitor) ⭐ 15,246 | 🐛 116 | 🌐 TypeScript | 📅 2026-03-13 - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 * [Apache Cordova](https://github.com/apache/cordova-android) ⭐ 3,779 | 🐛 93 | 🌐 JavaScript | 📅 2026-03-13 - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 * [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 * [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
