@@ -75,7 +75,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38201
+            "stars": 38199
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-05-28T17:45:30Z",
             "owner": "google",
             "repo": "dagger",
-            "stars": 17703
+            "stars": 17702
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2021-10-26T18:42:45Z",
             "owner": "signalapp",
             "repo": "libsignal-protocol-java",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2026-05-12T06:31:02Z",
             "owner": "mikepenz",
             "repo": "MaterialDrawer",
-            "stars": 11645
+            "stars": 11646
           }
         },
         {
@@ -953,7 +953,7 @@
             "last_commit": "2021-08-18T23:15:07Z",
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12457
+            "stars": 12456
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "last_commit": "2026-05-29T23:09:14Z",
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35018
+            "stars": 35016
           }
         },
         {
@@ -1244,7 +1244,7 @@
             "last_commit": "2026-05-27T17:47:09Z",
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17147
+            "stars": 17145
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33158
+            "stars": 33154
           }
         },
         {
@@ -1334,7 +1334,7 @@
             "last_commit": "2025-12-23T16:39:03Z",
             "owner": "google",
             "repo": "ExoPlayer",
-            "stars": 21920
+            "stars": 21921
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "last_commit": "2026-05-28T19:07:23Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24200
+            "stars": 24199
           }
         },
         {
@@ -1453,10 +1453,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-29T08:46:30Z",
+            "last_commit": "2026-05-30T22:46:50Z",
             "owner": "square",
             "repo": "okhttp",
-            "stars": 46972
+            "stars": 46970
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "last_commit": "2026-05-29T01:50:05Z",
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10834
+            "stars": 10832
           }
         },
         {
@@ -1636,7 +1636,7 @@
             "last_commit": "2026-04-02T05:44:50Z",
             "owner": "tony19",
             "repo": "logback-android",
-            "stars": 1262
+            "stars": 1263
           }
         },
         {
@@ -2034,7 +2034,7 @@
             "last_commit": "2026-03-24T10:43:32Z",
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29921
+            "stars": 29916
           }
         },
         {
@@ -2060,7 +2060,7 @@
             "last_commit": "2023-05-31T01:20:26Z",
             "owner": "sh4hin",
             "repo": "Androl4b",
-            "stars": 1158
+            "stars": 1159
           }
         },
         {
@@ -2196,7 +2196,7 @@
             "last_commit": "2024-10-26T03:44:45Z",
             "owner": "facebook",
             "repo": "stetho",
-            "stars": 12674
+            "stars": 12675
           }
         },
         {
@@ -2248,7 +2248,7 @@
             "last_commit": "2024-05-10T13:57:53Z",
             "owner": "JakeWharton",
             "repo": "pidcat",
-            "stars": 4940
+            "stars": 4941
           }
         },
         {
@@ -2485,7 +2485,7 @@
             "last_commit": "2023-11-10T04:44:43Z",
             "owner": "permissions-dispatcher",
             "repo": "PermissionsDispatcher",
-            "stars": 11175
+            "stars": 11174
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-05-30T03:06:14Z",
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 33959
+            "stars": 33956
           }
         },
         {
@@ -2696,7 +2696,7 @@
             "last_commit": "2026-05-25T06:19:54Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48246
+            "stars": 48244
           }
         },
         {
@@ -2748,7 +2748,7 @@
             "last_commit": "2026-05-29T12:23:52Z",
             "owner": "mikepenz",
             "repo": "AboutLibraries",
-            "stars": 4311
+            "stars": 4316
           }
         },
         {
@@ -3149,7 +3149,7 @@
             "last_commit": "2026-05-29T21:47:20Z",
             "owner": "facebook",
             "repo": "react-native",
-            "stars": 125921
+            "stars": 125927
           }
         },
         {
@@ -3164,7 +3164,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-29T15:51:57Z",
+            "last_commit": "2026-05-30T12:24:25Z",
             "owner": "apache",
             "repo": "cordova-android",
             "stars": 3785
@@ -3180,7 +3180,7 @@
             "last_commit": "2026-05-29T12:31:21Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 15788
+            "stars": 15795
           }
         }
       ],
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:45:08.633Z",
+    "last_updated": "2026-05-31T06:15:04.466Z",
     "original_repository": "JStumpp/awesome-android",
     "source_repository": "v1nvn/enhansome-android",
     "source_repository_description": null,
